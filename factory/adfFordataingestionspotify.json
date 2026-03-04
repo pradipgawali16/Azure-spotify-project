@@ -1,0 +1,9 @@
+{
+	"name": "adfFordataingestionspotify",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bd5afc4-7778-4365-8779-8945c212a89b",
+		"tenantId": "f0381d36-76af-407d-b12f-85f1c3ba3d7b"
+	}
+}
